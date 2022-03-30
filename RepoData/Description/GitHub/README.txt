@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Phoneticut is a voice actor replacement: Make a certain amount of sounds, and have stitching and deepfakes do the rest. Never spend time voice acting again, if you really need, let the royalties and licensing come to you
