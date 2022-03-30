@@ -1,0 +1,1 @@
+Phoneticut is a voice actor replacement: Make a certain amount of sounds, and have stitching and deepfakes do the rest. Never spend time voice acting again, if you really need, let the royalties and licensing come to you
