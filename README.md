@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -427,6 +427,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://avatars.githubusercontent.com/u/83990679?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 HTML5 projects</b></sub></a><br /><a href="https://github.com/seanpm2001/Phoneticut/commits?author=Seanpm2001-HTML5-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Phoneticut/commits?author=Seanpm2001-HTML5-lang" title="Documentation">📖</a> <a href="#projectManagement-Seanpm2001-HTML5-lang" title="Project Management">📆</a> <a href="#security-Seanpm2001-HTML5-lang" title="Security">🛡️</a> <a href="#data-Seanpm2001-HTML5-lang" title="Data">🔣</a> <a href="#content-Seanpm2001-HTML5-lang" title="Content">🖋</a> <a href="#design-Seanpm2001-HTML5-lang" title="Design">🎨</a> <a href="#maintenance-Seanpm2001-HTML5-lang" title="Maintenance">🚧</a> <a href="#ideas-Seanpm2001-HTML5-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Perl_Harbor"><img src="https://avatars.githubusercontent.com/u/84095190?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Perl projects</b></sub></a><br /><a href="https://github.com/seanpm2001/Phoneticut/commits?author=Seanpm2001-Perl-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Phoneticut/commits?author=Seanpm2001-Perl-lang" title="Documentation">📖</a> <a href="#projectManagement-Seanpm2001-Perl-lang" title="Project Management">📆</a> <a href="#security-Seanpm2001-Perl-lang" title="Security">🛡️</a> <a href="#data-Seanpm2001-Perl-lang" title="Data">🔣</a> <a href="#content-Seanpm2001-Perl-lang" title="Content">🖋</a> <a href="#design-Seanpm2001-Perl-lang" title="Design">🎨</a> <a href="#maintenance-Seanpm2001-Perl-lang" title="Maintenance">🚧</a> <a href="#ideas-Seanpm2001-Perl-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
