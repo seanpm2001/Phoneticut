@@ -251,6 +251,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Seanpm2001-Artificial-Intelligence",
+      "name": "Seanpm2001 Artificial Intelligence (research and development)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97198258?v=4",
+      "profile": "https://github.com/Seanpm2001-AI/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
