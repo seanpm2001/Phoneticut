@@ -149,6 +149,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Seanpm2001-VoiceSoftware",
+      "name": "Seanpm2001 Voice Software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88360760?v=4",
+      "profile": "https://github.com/Seanpm2001-VoiceSoftware",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
