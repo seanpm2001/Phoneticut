@@ -302,6 +302,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Phoneticut",
+      "name": "Phoneticut (voice actor replacement)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103299663?v=4",
+      "profile": "https://github.com/Phoneticut",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
