@@ -166,6 +166,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Seanpm2001-Audio",
+      "name": "Seanpm2001 Audio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85583794?v=4",
+      "profile": "https://github.com/seanpm2001/SeansAudioDB",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
